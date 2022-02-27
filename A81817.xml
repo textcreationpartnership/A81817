@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Duke Hamiltons conditions, for surrendring himself with all the officers and souldiers under his command, and three thousand horse and armes to the Parliaments forces in the county of Stafford. A hundred and thirteen Scots colours borught up to the Parliament, with their order to send them to Colchester to be hung up in sight of the Earl of Norwich, Sir Charles Lucas, and the rest of the defendents in the said towne. Also the taking of Sir Marmaduke Langdale with eight other eminent commanders, and carrying them prisoners to Nottingham castle. A message from Lieutenant-Generall Cromwell to Major Generall Monroe about putting to death 4000. Scots prisoners. A letter sent by a committee-man from the E. of Norwich, drums beating, and colours flying. The surrender of Deale castle in Kent to Colnell Rich, and Colonell Hewson.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81817</idno>
+            <idno type="STC">Wing D2507</idno>
+            <idno type="STC">Thomason E461_10</idno>
+            <idno type="STC">ESTC R205160</idno>
+            <idno type="EEBO-CITATION">99864597</idno>
+            <idno type="PROQUEST">99864597</idno>
+            <idno type="VID">162165</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81817)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162165)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E461[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Duke Hamiltons conditions, for surrendring himself with all the officers and souldiers under his command, and three thousand horse and armes to the Parliaments forces in the county of Stafford. A hundred and thirteen Scots colours borught up to the Parliament, with their order to send them to Colchester to be hung up in sight of the Earl of Norwich, Sir Charles Lucas, and the rest of the defendents in the said towne. Also the taking of Sir Marmaduke Langdale with eight other eminent commanders, and carrying them prisoners to Nottingham castle. A message from Lieutenant-Generall Cromwell to Major Generall Monroe about putting to death 4000. Scots prisoners. A letter sent by a committee-man from the E. of Norwich, drums beating, and colours flying. The surrender of Deale castle in Kent to Colnell Rich, and Colonell Hewson.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.B,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aug ye 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hamilton, James Hamilton, --  Duke of, 1606-1649 --  Early works to 1800.</term>
+               <term>Langdale, Marmaduke Langdale, --  Baron, 1598?-1661 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Colchester (England) --  History --  Siege, 1648 --  Early works to 1800.</term>
+               <term>Stafford (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162165:1" rendition="simple:additions"/>
+            <p>DUKE Hamiltons Conditions, FOR Surrendring himſelf with all the Officers and Souldiers under his command, and three thouſand Horſe and Armes to the Parliaments Forces in the County of Stafford.</p>
+            <p>A hundred and thirteen Scots Colours brought up to the Parliament, with their Order to ſend them to Colcheſter to be hung up in ſight of the Earl of <hi>Norwich,</hi> Sir <hi>Charles Lucas,</hi> and the reſt of the Defendents in the ſaid Towne.</p>
+            <p>Alſo the taking of Sir MARMADUKE LANGDALE with eight other eminent Commanders, and carrying them Priſoners to Nottingham Caſtle.</p>
+            <p>A Meſſage from Lievtenant-Generall <hi>Cromwell</hi> to Major Generall <hi>Monrac</hi> about putting to death 4000. Scots Priſoners.</p>
+            <p>A Letter ſent by a Committee-man from the E. of <hi>Norwich, Sir Charles Lucas, &amp;c.</hi> to the L. Generall, to march away with Drums beating, and Colours flying.</p>
+            <p>The Surrender of Deale Caſtle in Kent to Colonell <hi>Rich,</hi> and Colonell <hi>Hewſon.</hi>
+            </p>
+            <p>Printed for <hi>R. B.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="part">
+               <pb facs="tcp:162165:2"/>
+               <pb n="1" facs="tcp:162165:2"/>
+               <head>Duke <hi>Hamiltons</hi> Conditions for ſur<g ref="char:EOLhyphen"/>rendring himſelf, and all Officers and Souldi<g ref="char:EOLhyphen"/>diers under his Command, with 3000. Horſe and Armes to the Parliaments Forces.</head>
+               <p>FRiday the 25. of this inſtant <hi>Auguſt,</hi> were brought to the Houſe of Commons by one Mr. <hi>Noble</hi> (who came from Lievtenant-Generall <hi>Cromwell</hi>) 113. Colours of Horſe and Foot, which were taken from the Scots upon the taking of their whole Body of Foot in Lancaſhire, conſiſting of about nine thouſand, and put<g ref="char:EOLhyphen"/>ting the Duke with ſuch Horſe as he had left to flight.</p>
+               <p>Amongſt theſe Colours are Duke <hi>Hamiltons</hi> owne Standard of white Searſnet, with a Crowne in the midſt, and underneath this Motto,</p>
+               <p>
+                  <hi>DATE CAESARI.</hi>
+               </p>
+               <p>The reſt of the Colours for all that Regiment of Horſe had the ſame Motto.</p>
+               <p>The Dukes Colours for his Regiment of Foot were alſo white, and (which is more then uſuall) had this Motto,</p>
+               <p>
+                  <hi>For Covenant, King and Kingdome.</hi>
+               </p>
+               <p>A great number of Horſe-Colours are yet to come in, and when they are all brought together, it is concei<g ref="char:EOLhyphen"/>ved the Parliament will give order for hanging them up (as Trophies) in Weſtminſter Hall, the Abbey, or ſome other eminent place.</p>
+               <pb n="2" facs="tcp:162165:3"/>
+               <p>The Duke fled with a party of Horſe into Cheſhire, where the Countrey roſe with ſo much gallantry and re<g ref="char:EOLhyphen"/>ſolution, that with ſome helpe of the Souldiery in thoſe parts, they took above a hundred priſoners at Nampt<g ref="char:EOLhyphen"/>wich; Colonell <hi>Moore,</hi> who at this time was joyned with Major <hi>Harley,</hi> and the reſt of the Party which of late gave the great blow to the Cavaliers Party com<g ref="char:EOLhyphen"/>manded by Sir <hi>Henry Lingen,</hi> and took himſelf and al<g ref="char:EOLhyphen"/>moſt all the reſt Priſoners, had intelligence hereof, and fell down into Shropſhire (a thouſand effective) where they lighted on many of the Scots in a frighted and moſt deſpicable condition, ten men chaſed a hundred.</p>
+            </div>
+            <div type="part">
+               <p>The Duke finding himſelf in a great ſtraight, the Countrey riſing on either ſide of him, forces ready to incounter him before, and impede his march into the Iſle of Angleſey; and his Forces feared to look back, for that they conceited, they alwaies heard the noiſe of the trampling of the feet of Lievtenant-Generall <hi>Crom<g ref="char:EOLhyphen"/>wells</hi> men, who were more terrible to them then Lions; the Duke with thoſe remaining with him being in a fainting condition, turned on one ſide, and rowled down upon Utceſter in the County of Stafford.</p>
+               <p>When he came thither, he heard that the Lord <hi>Grey</hi> of <hi>Groby</hi> had a gallant Brigade of Horſe, and attended the motion of the Scots; preſently comes newes that Major-Generall <hi>Lambert</hi> with a conſiderable party of Horſe was but about a dayes march behind; hereupon the Duke thinks of a way of ſubmiſſion, and finding he and his Party could no longer eſcape the fury of the people, wiſh themſelves under termes of mercy, within the protection of the Lord <hi>Grey,</hi> and the reſt of the Souldiery, on condition he might have a Convoy,
+<pb n="3" facs="tcp:162165:3"/> which he and Sir <hi>Marmaduke Langdale,</hi> with the reſt of the Officers, Nobility, Gentry and Souldiery of Scot<g ref="char:EOLhyphen"/>land that are with him, will doubtleſſe have within few dayes to bring them to the Parliament, or ſuch other place as they ſhall appoint.</p>
+               <p>The Earl of <hi>Traquaire</hi> hath already ſubmitted and yeelded himſelfe priſoner, with many others; and none of the reſt are like to have better quarter, they being environed, and little or no poſſibility of their eſcape.</p>
+               <p>Lievtenant-Generall <hi>Cromwell</hi> is in purſuit of that party of the Scots Horſe that fled North-wards, and to oppoſe the reſt of their Forces commanded by <hi>Munro;</hi> ſome ſmall recruit added to him in this conjuncture of time, would ſoon cleer the North, and be a terror to a<g ref="char:EOLhyphen"/>ny other that ſhall preſume to invade that part of this Kingdome.</p>
+               <p>Duke <hi>Hamilton</hi> finding the County to riſe againſt him, who had taken about a thouſand of the three thouſand horſe, marched with him towards the South, and the ſouldierie to purſue him, and the remaining par<g ref="char:EOLhyphen"/>ty with him fearfull of being knockt on the head by the Countrey, ſent a Meſſage to the Governour of Stafford, ſignifying, that he would capitulate with him, if hee pleaſed on conditions for himſelfe and thoſe that were with him, the Governour of Stafford (a wiſe and vali<g ref="char:EOLhyphen"/>ant Gentleman) returnes anſwer, that if himſelf and thoſe with him would lay downe and ſubmit to mercy they might, otherwaies they muſt take what followed: The Duke ſtayed ſtill at Uxceſter, having left about 2000. horſe, (one thouſand being cut off by the Coun<g ref="char:EOLhyphen"/>trey before they got thither) and there incloſed on all
+<pb n="4" facs="tcp:162165:4"/> ſides, muſt be content with lower conditions, whereof more ſhortly.</p>
+               <p>In the meane time Sir <hi>Marmaduke Langdale</hi> and eight other eminent Commanders are taken in a mean houſe neare Nottingham diſguiſed, by 12. Troopers which knew them not within an houre after they were taken, but afterwards carryed them to Nottingham Caſtle to accompany Colonell <hi>Poyer,</hi> Colonell <hi>Powell,</hi> and the reſt taken by Lieutenant Generall <hi>Cromwell</hi> in Wales.</p>
+               <p>The Intelligence is, that Major Generall <hi>Monro,</hi> with the forces he brought out of Ireland, and thoſe Scots horſemen which eſcaped to him after the late rout in Lancaſhire, are matching forward (and were then in Weſtmerland) to meet Lieutenant Generall <hi>Crom<g ref="char:EOLhyphen"/>well,</hi> upon which the Lieutenant Generall hath ſent a Trumpet to <hi>Monro,</hi> to give him notice, that in caſe he advances further Southward, he muſt be forced to put foure thouſand and od priſoners he hath of theirs to the ſword.</p>
+               <p>What anſwer was returned we yet hear not, but it is reported that the Lord <hi>Kalender</hi> and <hi>Monro</hi> are joyned, and therefore the leſſe probability that they will deſiſt their further approach.</p>
+               <p>The Scots Colours before mentioned are carried down to the Leaguer before Colcheſter, and will be ſet up in the view of the Towne as ſo many ſignalls of that admirable victory, and if the ſight of them will not move the Defendents, doubtleſſe if Sir <hi>Marme<g ref="char:EOLhyphen"/>duke Langdale</hi> were there it would do it.</p>
+               <pb n="5" facs="tcp:162165:4"/>
+               <p>When the Beſiegers had firſt notice of this great Victory againſt the Scots, they gave the Defendents notice thereof by diſcharging the great Guns ſix times over againſt the Towne.</p>
+               <p>The next day the Earle of Norwich, Sir Charles Lucas, and the reſt of the Officers in the towne ſent out one of the Committee<g ref="char:EOLhyphen"/>men (which they keep priſoners there) to the Lord Generall Fairfax, with a Letter, wherein they ſignified, that if his Excellency would give way that the Officers ſhould march away to their owne homes, or beyond the Seas, and the common Souldiers a mile from the towne, with Drums beating, and Colours flying, and there to lay down arms, they would ſurrender the towne, which the Committee-man begged as for his life.</p>
+               <p>His Excellency returned anſwer, <q>
+                     <hi>That when their condition was far better then now it is, he ſhould have refuſed to grant theſe Propoſitions, and therefore had leſſe cauſe to harken to them now; His Excellency doubts not to preſerve the reſt
+<pb n="6" facs="tcp:162165:5"/> of the Committee, and get the towne with<g ref="char:EOLhyphen"/>in foure daies; the Cannon began to make battery againſt the walls on Thurſday laſt, and if they doe not ſuddenly ſurrender, they muſt take what followes.</hi>
+                  </q>
+               </p>
+               <p>The Caſtle of Deale in Kent was ſurrended to Colonell <hi>Rich</hi> and Co<g ref="char:EOLhyphen"/>lonell <hi>Hewſon</hi> on Friday laſt, Sandown is all that holds out now in that Coun<g ref="char:EOLhyphen"/>ty.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
